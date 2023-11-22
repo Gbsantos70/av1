@@ -1,0 +1,96 @@
+body {
+    background: #831d1c;
+  }
+  nav {
+    background-color: darkgreen;
+  }
+  .card {
+    color: darkgreen;
+  }
+  .card-text {
+    color: darkgreen;
+    font-style: italic;
+  font-size: x-large;
+  }
+  
+  .btn-primary {
+    color: white;
+    align-content: center;
+    --bs-btn-bg: #831d1c;
+    
+  }
+  .Fluminense {
+    display: flex;
+      flex-direction: row-reverse;
+      gap: 9px;
+      justify-content: center;
+  }
+  .card-img-top {
+    width: 100%;
+  }
+  hr {
+    color: #831d1c ;
+    
+  }
+  
+  .social-media {
+    font-size: larger;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 4%;
+  }
+  
+  footer {
+    background: darkgreen;
+    text-align: center;
+    box-shadow: 0 2px 5px #831d1c 0 (0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    padding: 16px 0;
+    margin: 16px 0;
+  }
+  
+  .fa-youtube {
+    color: red;}
+  
+    h1{
+     display: flex;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      color: white;
+      flex-direction: column;
+      align-items: center;
+      -webkit-text-stroke-width: 3px; 
+      -webkit-text-stroke-color: darkgreen
+      
+    }
+  
+  
+  p{-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: darkgreen;
+    font-size: 2em; color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  
+  }
+  a{
+    font-family: 'Times New Roman', Times, serif;
+  font-size: 2;
+  }
+  
+  
+  h5{
+    -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color:#831d1c ;
+  font-size: 2em; color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .fa-facebook-official{
+    color: darkblue;
+  }
+  .fa-instagram{
+    color: violet;
+  }
+  .navbar-brand {
+    font-family: sans-serif;
+    color: #831d1c
+  }
+  
+  
